@@ -10,7 +10,7 @@ This simple application uses Instagram's API to allow users to view their most r
 
 <!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 
-![instagram photo stream app preview](http://insta-api-preview.png)
+![instagram photo stream app preview](https://github.com/lpercivalDEV/instagram-api/blob/master/insta-api-preview.png)
 
 ## How It's Made:
 
