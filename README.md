@@ -33,7 +33,7 @@ I think the last most important thing I would've liked to add if I had more time
 
 Setting up a local server in my terminal to run the application and working with the Instagram API was a fairly straightforward process. Once I understood that I had to provide my client ID for a user to be able to get their OAuth token, everything else kind of fell into place.
 
-I also learned that teamwork makes the dream work! A mentor helped me understand that I wasn't clearing local storage and this helped me understand why some of my changes were not initially showing up. Lesson learned!
+I also learned that teamwork makes the dream work! A mentor helped me understand that I wasn't clearing local storage and this helped me realize why some of my changes were not initially showing up. Lesson learned!
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
