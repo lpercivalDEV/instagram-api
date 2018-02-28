@@ -1,0 +1,18 @@
+body {
+  background-color: tomato;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100px;
+  width: 100px;
+}
+
+.image {
+  flex: 1 1 200px;
+  margin: 3px;
+  background-size: cover;
+  height: 100px;
+  width: auto;
+}
