@@ -1,8 +1,3 @@
-# instagram-api
-A simple app using instagram's api to pull a users most recent photos taken at their current location.
-
-
-
 
 
 # Instagram Current Location Photo Stream - Proof of Concept
