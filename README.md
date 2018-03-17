@@ -1,6 +1,7 @@
 
 
-# Instagram Current Location Photo Stream - Proof of Concept
+# Instagram Current Location Photo Stream - Proof of Concept 
+
 This simple application uses Instagram's API to allow users to view their most recent photos taken at their current location.
 
 <!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
